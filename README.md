@@ -1,6 +1,6 @@
 # Registro de Usuários
 
-<img src="imagem.png" alt="Exemplo imagem">
+<img src="register_app.png" alt="Exemplo app" width="600px" >
 
 > O projeto foi desenvolvido como primeiro contato com banco de dados.<br/>
 > Apesar do mesmo ter uma funcionalidade simples é utilizada em diversas aplicações.<br/>
