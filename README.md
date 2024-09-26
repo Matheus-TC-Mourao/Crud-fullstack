@@ -6,16 +6,6 @@
 > Apesar do mesmo ter uma funcionalidade simples é utilizada em diversas aplicações.<br/>
 > O projeto consiste em um CRUD de usuários no qual contém <b>nome, email, fone</b> e <b>data de nascimento</b>.
 
-### Ajustes e melhorias
-
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
-
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
-
 
 ## 🚀 Instalando Crud-fullstack
 
@@ -33,19 +23,17 @@ Windows:
 <comando_de_instalação>
 ```
 
-## ☕ Usando <nome_do_projeto>
+## ☕ Usando Crud-fullstack
 
-Para usar <nome_do_projeto>, siga estas etapas:
+Para usar <Crud-fullstack>, siga estas etapas:
 
 ```
 <exemplo_de_uso>
 ```
 
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Forneça uma referência de opções para pontos de bônus!
+## 📫 Contribuindo para Crud-fullstack
 
-## 📫 Contribuindo para <nome_do_projeto>
-
-Para contribuir com <nome_do_projeto>, siga estas etapas:
+Para contribuir com <Crud-fullstack>, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
