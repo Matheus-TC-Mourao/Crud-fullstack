@@ -11,25 +11,30 @@
 
 Para instalar o Crud-fullstack, siga estas etapas:
 
-Linux e macOS:
+1. Clone o repositório.
+   ```
+   git clone https://github.com/Matheus-T-C-Mourao/Crud-fullstack.git
+   ```
 
-```
-<comando_de_instalação>
-```
 
-Windows:
+2. Navegue até o diretório do projeto
 
-```
-<comando_de_instalação>
-```
+    ```
+    cd Crud-fullstack
+    ```
+    
+3. Instalar dependências
 
-## ☕ Usando Crud-fullstack
+   ```
+   npm install
+   ```
 
-Para usar <Crud-fullstack>, siga estas etapas:
+4. Para iniciar a aplicação, rode o comando:
 
-```
-<exemplo_de_uso>
-```
+   ```
+   npm start
+   ```
+
 
 ## 📫 Contribuindo para Crud-fullstack
 
