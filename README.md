@@ -2,8 +2,8 @@
 
 <img src="register_app.png" alt="Exemplo app" width="600px" >
 
-> O projeto foi desenvolvido como primeiro contato com banco de dados.<br/>
-> Apesar do mesmo ter uma funcionalidade simples é utilizada em diversas aplicações.<br/>
+> O App foi desenvolvido com o objetivo de exercitar o conhecimento sobre um projeto fullstack com banco de dados.<br/>
+> Apesar de ter uma funcionalidade simples, o mesmo é utilizado em diversas aplicações.<br/>
 > O projeto consiste em um CRUD de usuários no qual contém <b>nome, email, fone</b> e <b>data de nascimento</b>.
 
 
